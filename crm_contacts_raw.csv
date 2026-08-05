@@ -1,0 +1,16 @@
+contact_id,first_name,last_name,email,phone,company,lead_source,created_date,state
+1001,Maria,Santos,maria.santos@brightpath.com,+1-415-555-0132,BrightPath Logistics,Webinar,2025-01-14,CA
+1002,Maria,Santos,maria.santos@brightpath.com,415-555-0132,BrightPath Logistics,Webinar,2025-01-14,CA
+1003,John,Reyes,jreyes@harboranalytics.io,,Harbor Analytics,Referral,2025-01-20,NY
+1004,Jon,Reyes,j.reyes@harboranalytics.io,212-555-0198,Harbor Analytics Inc,Referral,2025-01-21,NY
+1005,,Delacruz,a.delacruz@nimbuscorp.com,646-555-0110,Nimbus Corp,Trade Show,2025-02-02,NY
+1006,Angela,Delacruz,a.delacruz@nimbuscorp.com,646-555-0110,Nimbus Corp,Trade Show,2025-02-02,NY
+1007,Kevin,Tan,kevin.tan@summitware.com,312-555-0177,SummitWare,Cold Outreach,2025-02-10,IL
+1008,Priya,Nair,priya.nair@evergreen-tech.com,not-a-phone,Evergreen Tech,Webinar,2025-02-11,TX
+1009,Priya,Nair,priya.nair@evergreen-tech.com,713-555-0144,Evergreen Tech,Webinar,2025-02-11,TX
+1010,David,Kim,david.kim@brightpath.com,415-555-0199,BrightPath Logistics,Partner,2025-02-15,CA
+1011,Sarah,Lopez,sarah.lopez@,510-555-0121,Coastal Freight,Referral,2025-02-18,CA
+1012,Sarah,Lopez,sarah.lopez@coastalfreight.com,510-555-0121,Coastal Freight,Referral,2025-02-19,CA
+1013,Michael,Obrien,mobrien@summitware.com,312-555-0166,SummitWare,Cold Outreach,2025-03-01,IL
+1014,Lin,Zhao,lin.zhao@nimbuscorp.com,646-555-0155,Nimbus Corp,Trade Show,2025-03-04,NY
+1015,Lin,Zhao,lin.zhao@nimbuscorp.com,646-555-0155,Nimbus Corp,Trade Show,2025-03-04,
