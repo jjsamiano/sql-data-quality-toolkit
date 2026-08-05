@@ -47,7 +47,7 @@ by this script:
 
 Both require matching across multiple keys at once, or fuzzy name
 comparison — which plain single-key SQL isn't built for. That's the exact
-handoff point to **[02-python-etl-reconciliation](https://github.com/jjsamiano/python-etl-reconciliation)**,
+handoff point to **[02-python-etl-reconciliation](../../sql-data-quality-toolkit)**,
 where a Python pass resolves both remaining pairs. In production this is
 usually how the two layers split: SQL for deterministic, high-confidence
 matching at scale; Python for the fuzzy tier on what's left.
